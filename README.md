@@ -20,17 +20,6 @@ Email: Jessica.kraft@utdallas.edu
 [![Scopus ID](https://img.shields.io/badge/Scopus_Author_ID-57204573302-red)](https://www.scopus.com/authid/detail.uri?authorId=57204573302)
 [![Loop Profile](https://img.shields.io/badge/Loop_Profile-974285-orange)](https://loop.frontiersin.org/people/974285/overview)
 
-You can reach out to me at: [aa14av@gmail.com](mailto:aa14av@gmail.com)
 
 
-
-- Albizu, A., Paulo, S., Huang, Z., Waner, J., Indahlastari, I., Fang, R., Brunoni AR., & Woods, AJ. (Under Review). Artificial intelligence-optimized non-invasive brain stimulation and treatment response prediction for major depression.
-
-- Albizu, A., Indahlastari, I., Huang, Z., Waner, J., Stolte, SE., Fang, R., & Woods, AJ. (2023). Machine-learning defined precision tDCS for improving cognitive function. *Brain Stimulation*
-
-- Albizu, A., Indahlastari, I., & Woods, AJ. (2022). Non-invasive Brain Stimulation. *Encyclopedia of Gerontology and Population Aging*
-
-- Albizu, A., Fang, R., Indahlastari, A., O’Shea, A., Stolte, SE., See, KB., Boutzoukas, EM., Kraft, JN., Nissim, NR., & Woods, AJ. (2020). Machine learning and individual variability in electric field characteristics predict tDCS treatment response. *Brain Stimulation* 
-
-- Albizu, A., Indahlastari, I., & Woods, AJ. (2019). Non-invasive Brain Stimulation. *Encyclopedia of Gerontology and Population Aging*
 -->
