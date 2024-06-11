@@ -2,11 +2,11 @@
 
 <!--
 **jessicankraft/jessicankraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 :brain: Postdoctoral Associate at University of Texas at Dallas Center for Vital Longevity. Interested in biomarkers associated with cognitive decline in aging. 
 
-<!--
+
 ## 📫 Contact
 Email: Jessica.kraft@utdallas.edu
 
